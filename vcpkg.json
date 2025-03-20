@@ -14,7 +14,7 @@
     "directxtk",
     "catch2"
   ],
-  "builtin-baseline": "80d54ff62d528339c626a6fbc3489a7f25956ade",
+  "builtin-baseline": "7f9f0e44db287e8e67c0e888141bfa200ab45121",
   "features": {
     "mo2-install": {
       "description": "Combat Pathing Revolution"
